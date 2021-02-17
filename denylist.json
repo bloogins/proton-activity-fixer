@@ -1,0 +1,14 @@
+[
+    "wine-preloader",
+    "pressure-vessel-adverb",
+    "pressure-vessel-launcher",
+    "pressure-vessel-launch",
+    "pressure-vessel-wrap",
+    "proton",
+    "wine64-preloader",
+    "wineserver",
+    "x86_64-linux-gnu-inspect-library",
+    "x86_64-linux-gnu-capsule-capture-libs",
+    "i386-linux-gnu-capsule-capture-libs",
+    "i386-linux-gnu-inspect-library"
+]

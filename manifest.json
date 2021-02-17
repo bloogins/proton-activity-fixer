@@ -1,0 +1,10 @@
+{
+  "name": "Proton Activity Fixer",
+  "description": "Prevents Steam Proton and Wine from creating tons of Game Activities",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "AAGaming",
+    "id": "373833473091436546"
+  }
+}
